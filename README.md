@@ -4,7 +4,7 @@
 https://1drv.ms/u/s!AoItCYYTPDKgin9hnLIJjHsIwtAA?e=FpHesX
 
 # Current status of the game
--Main Menu *Done*
+-Main Menu *Done*\n
 -Character Selection *Done*
 -Character1 animations: *WIP*
 -Character2 animations: *Done*
