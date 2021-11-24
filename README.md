@@ -1,6 +1,6 @@
 # Unnamed-Game
 
-# PLAY THE GAME DEMO!!!
+# DOWNLOAD THE GAME DEMO HERE!!!
 
 
 # Game Engine home page link
