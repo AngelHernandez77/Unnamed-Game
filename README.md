@@ -1,13 +1,25 @@
 # Unnamed-Game
 
+# PLAY THE GAME DEMO!!!
+
+
 # Game Engine home page link
 https://unity.com/
 
 # Game Project created using Unity Engine (C#)
 Creator: Angel Hernandez
 
-# Resources: 
-https://learn.unity.com/       ///         More coming soon...
+# Resources and tutorials used: 
+https://learn.unity.com/       ///         https://www.youtube.com/watch?v=CE9VOZivb3I&list=PLot46dGLb15ZXYQMTDIT2fpD1jtAOYcdW&index=3&ab_channel=Brackeys       ///
+
+https://www.youtube.com/watch?v=zc8ac_qUXQY&list=PLot46dGLb15ZXYQMTDIT2fpD1jtAOYcdW&index=4&ab_channel=Brackeys       ///         https://www.youtube.com/watch?
+
+v=2PKBChN10us&list=PLot46dGLb15ZXYQMTDIT2fpD1jtAOYcdW&index=8&ab_channel=Hooson       ///         https://www.youtube.com/watch?v=--
+
+N5IgSUQWI&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=4&ab_channel=MisterTaftCreates
+
+# Credits
+Background:        <a href='https://www.freepik.com/vectors/banner'>Banner vector created by starline - www.freepik.com</a>
  
  
 # Info
