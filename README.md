@@ -1,4 +1,4 @@
-# 7-Worlds (provisional name)
+<title># 7-Worlds (provisional name)</title>
 
 # DOWNLOAD THE GAME DEMO HERE!!!
 
