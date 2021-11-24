@@ -4,13 +4,13 @@
 https://1drv.ms/u/s!AoItCYYTPDKgin9hnLIJjHsIwtAA?e=FpHesX
 
 # Current status of the game
-Main Menu *Done*
-Character Selection *Done*
-Character1 animations: *WIP*
-Character2 animations: *Done*
-PlayerEnvironment/Stage: *WIP 1/4*
-Battle System: *WIP*
-Miscellaneous major and minor elements; *WIP*
+-Main Menu *Done*
+-Character Selection *Done*
+-Character1 animations: *WIP*
+-Character2 animations: *Done*
+-PlayerEnvironment/Stage: *WIP 1/4*
+-Battle System: *WIP*
+-Miscellaneous major and minor elements; *WIP*
 
 # Game Engine home page link
 https://unity.com/
