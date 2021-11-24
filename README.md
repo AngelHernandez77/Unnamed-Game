@@ -13,9 +13,7 @@ Creator: Angel Hernandez
 https://learn.unity.com/       ///         https://www.youtube.com/watch?v=CE9VOZivb3I&list=PLot46dGLb15ZXYQMTDIT2fpD1jtAOYcdW&index=3&ab_channel=Brackeys       ///
 
 https://www.youtube.com/watch?v=zc8ac_qUXQY&list=PLot46dGLb15ZXYQMTDIT2fpD1jtAOYcdW&index=4&ab_channel=Brackeys       ///         https://www.youtube.com/watch?
-
 v=2PKBChN10us&list=PLot46dGLb15ZXYQMTDIT2fpD1jtAOYcdW&index=8&ab_channel=Hooson       ///         https://www.youtube.com/watch?v=--
-
 N5IgSUQWI&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43Zfu&index=4&ab_channel=MisterTaftCreates
 
 # Credits
