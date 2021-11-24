@@ -4,13 +4,13 @@
 https://1drv.ms/u/s!AoItCYYTPDKgin9hnLIJjHsIwtAA?e=FpHesX
 
 # Current status of the game
--Main Menu *Done*\n
--Character Selection *Done*
--Character1 animations: *WIP*
--Character2 animations: *Done*
--PlayerEnvironment/Stage: *WIP 1/4*
--Battle System: *WIP*
--Miscellaneous major and minor elements; *WIP*
+-Main Menu *Done*  
+-Character Selection *Done*  
+-Character1 animations: *WIP*  
+-Character2 animations: *Done*  
+-PlayerEnvironment/Stage: *WIP 1/4*  
+-Battle System: *WIP*  
+-Miscellaneous major and minor elements: *WIP*  
 
 # Game Engine home page link
 https://unity.com/
@@ -28,6 +28,10 @@ https://www.youtube.com/watch?v=--N5IgSUQWI&list=PL4vbr3u7UKWp0iM1WIfRjCDTI03u43
 # Credits
 Background:        <a href='https://www.freepik.com/vectors/banner'>Banner vector created by starline - www.freepik.com</a>
  
+ # Color
+ - ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+) `#f03c15`
+- ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+) `#c5f015`
+- ![#1589F0](https://via.placeholder.com/15/1589F0/000000?text=+) `#1589F0`
  
 # Info
 
