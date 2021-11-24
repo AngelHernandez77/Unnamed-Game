@@ -5,8 +5,8 @@ https://1drv.ms/u/s!AoItCYYTPDKgin9hnLIJjHsIwtAA?e=FpHesX
 
 # Current status of the game
 -Main Menu *Done*  
--Character Selection *Done* `#f03c15` 
--Character1 animations: *WIP*  
+-Character Selection *Done* 
+-Character1 animations: *WIP*  ![#f03c15](https://via.placeholder.com/15/f03c15/000000?text=+)
 -Character2 animations: *Done*  
 -PlayerEnvironment/Stage: *WIP 1/4*  
 -Battle System: *WIP*  
