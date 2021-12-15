@@ -8,7 +8,7 @@ https://1drv.ms/u/s!AoItCYYTPDKgin9hnLIJjHsIwtAA?e=FpHesX
 -Character Selection *Done* ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  
 -Character1 animations: *Done*  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  
 -Character2 animations: *Done*  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  
--PlayerEnvironment/Stage: *Done 1/4*  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  
+-PlayerEnvironment/Stage: *Done 3/3*  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  
 -Battle System: *Done*  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  
 -Miscellaneous major and minor elements: *Done*  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  
 
