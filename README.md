@@ -1,7 +1,7 @@
 # 7-Worlds (provisional game name)
 
 # DOWNLOAD THE GAME DEMO HERE!!!
-https://1drv.ms/u/s!AoItCYYTPDKgin9hnLIJjHsIwtAA?e=FpHesX
+https://eaglefgcu-my.sharepoint.com/:u:/g/personal/aahernandez6931_eagle_fgcu_edu/ETomIzSpgvdPoDguwb6L_HIBx0H0xPZzAOf56O8aFR3_nw?e=LSPssg
 
 # Current status of the game
 -Main Menu *Done*  ![#c5f015](https://via.placeholder.com/15/c5f015/000000?text=+)  
