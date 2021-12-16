@@ -22,4 +22,12 @@ public class BackToMainMenu : MonoBehaviour
     {
         SceneManager.LoadScene("Menu");
     }
+    public void goToCredits()
+    {
+        SceneManager.LoadScene("Credits");
+    }
+    public void retryLevel()
+    {
+        SceneManager.LoadScene("Battle");
+    }
 }

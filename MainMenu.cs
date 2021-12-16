@@ -20,8 +20,12 @@ public class MainMenu : MonoBehaviour
     //Exit Button
     public void Exit()
     {
-        Debug.Log("QUIT");
         Application.Quit();
+    }
+
+    public void Credits() 
+    {
+        SceneManager.LoadScene("Credits");
     }
 
     //Initiate Transition

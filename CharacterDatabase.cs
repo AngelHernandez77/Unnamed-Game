@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+//Database of characters
 [CreateAssetMenu]
 public class CharacterDatabase : ScriptableObject
 {

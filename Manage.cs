@@ -12,7 +12,6 @@ public class Manage : MonoBehaviour
 
     public SpriteRenderer artworkSprite;
     private int selectedOption = 0;
-    //public Text nameText;
 
     void Start()
     {
@@ -29,6 +28,7 @@ public class Manage : MonoBehaviour
         updateCharacter(selectedOption);
     }
 
+    //Next option to change character
     public void NextOption()
     {
         selectedOption++;
@@ -42,6 +42,7 @@ public class Manage : MonoBehaviour
         Save();
     }
 
+    //Back button to change character
     public void BackOption()
     {
         selectedOption--;
@@ -55,22 +56,26 @@ public class Manage : MonoBehaviour
         Save();
     }
 
+    //Just for reference in playtesting this virtually does nothing when built
     private void updateCharacter(int selectedoption)
     {
         Character character = characterDB.GetCharacter(selectedoption);
         artworkSprite.sprite = character.characterSprite;
     }
 
+    //Load character
     public void Load() 
     {
         selectedOption = PlayerPrefs.GetInt("selectedOption");
     }
 
+    //Save character
     public void Save()
     {
         PlayerPrefs.SetInt("selectedOption", selectedOption);
     }
 
+    //Starts transition
     public void StartTransition()
     {
         StartCoroutine(LoadTransition());
@@ -86,6 +91,7 @@ public class Manage : MonoBehaviour
         SceneManager.LoadScene("Game");
     }
 
+    //Play button
     public void play() 
     {
         StartTransition();

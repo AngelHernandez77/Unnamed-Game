@@ -15,6 +15,7 @@ public class PlayerMovement : MonoBehaviour
         //Alex movement
         if (PlayerPrefs.GetInt("selectedOption") == 0)
         {
+            movementAnim = GetComponent<Animator>();
             rigidBody = GetComponent<Rigidbody2D>();
             //Finish sprite animation for movement
         }
@@ -37,7 +38,8 @@ public class PlayerMovement : MonoBehaviour
 
         if (PlayerPrefs.GetInt("selectedOption") == 0) 
         {
-            moveCharacter();
+            updateAnimationMovement();
+            //moveCharacter();
         }
 
         else 
@@ -60,7 +62,7 @@ public class PlayerMovement : MonoBehaviour
         }
 
         else
-        {
+        {   //Idle animation
             movementAnim.SetBool("moving", false);
         }
     }
